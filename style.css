@@ -1,0 +1,43 @@
+header{
+  display: flex;
+  justify-content: space-between;
+}
+.header-nav{
+  display: flex;
+
+}
+footer{
+  text-align:center ;
+}
+.main-miki{
+  display: flex;
+}
+.img-meet{
+  border-radius: 10%;
+  width: 50%;
+}
+.line{
+  display: flex;
+  justify-content: center;
+  
+}
+.img-line{
+  width: 5%;
+  
+}
+.div-3{
+  text-align: center;
+  background-color: rgba(35, 8, 245, 0.562);
+ 
+
+  
+}
+.haikei{
+  width: 400px;
+  height: 200px;
+  background-image:url(img/bg-line.jpg);
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  color: aliceblue;
+}
